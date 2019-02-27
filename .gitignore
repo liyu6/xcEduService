@@ -1,0 +1,8 @@
+*.iml
+*.orig
+*/target/*
+.idea/*
+*/.idea
+*/README.md
+/.settings/
+*.log
