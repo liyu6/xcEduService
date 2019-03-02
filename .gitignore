@@ -6,3 +6,8 @@
 /.settings/
 *.log
 /.idea/
+/xc-service-manage-cms/target/
+/xc-service-api/target/
+/xc-framework-utils/target/
+/xc-framework-model/target/
+/xc-framework-common/target/
